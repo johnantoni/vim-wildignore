@@ -1,4 +1,4 @@
 vim-wildignore
 ==============
 
-vim wildignore filters for web development, especially useful for Command+T.
+VIM plugin including wildignore filters for web development, especially useful for Command+T.
